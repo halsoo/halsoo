@@ -1,5 +1,6 @@
 # Hi, I'm is DongMin Kim
-## You can also call me Halsoo
+You can also call me Halsoo
+
 
 - 👷‍♂️ masters student @ MALer Lab, Sogang Univ, Seoul.
 - 🤔 research interests: neural DSP, neural synthesizer, conditioned melody generation
