@@ -1,4 +1,4 @@
-# Hi, I'm is DongMin Kim
+# Hi, I'm DongMin Kim
 You can also call me Halsoo
 
 
