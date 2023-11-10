@@ -6,4 +6,4 @@ You can also call me Halsoo
 - 🤔 research interests: neural DSP, neural synthesizer, conditioned melody generation
 
 - 💬 please contact me freely about researchs, collab opportunities, etc.
-- 📫 noizyufo@gmail.com
+- 📫 dmkim@sogang.ac.kr
