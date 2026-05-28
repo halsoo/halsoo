@@ -5,7 +5,7 @@ I built the YouTube Score Video dataset with 1,300+ hours of paired score-audio 
 Currently, I focus on optical music recognition (OMR) of multi-part Western music notation scores and applying semi-supervised learning to automatic music transcription (AMT) using OMR pseudo labels.  
 My goal is to achieve human-level automatic music score and performance audio transcription across diverse musical traditions.
 
-👷‍♂️ Researcher @ MALer Lab, Sogang Univ, Seoul.  
+👷‍♂️ Researcher @ SORI-AI, Daejeon, South Korea.  
 🤔 Research interests: Optical Music Recognition (OMR), Automatic Music Transcription (AMT), Training Data Synthesis, Semi-Supervised Learning, Music Information Retrieval  
 💬 Feel free to contact me about research, collaboration opportunities, etc.  
-📫 dmkim@sogang.ac.kr  
+📫 dongmin.kim@sori-ai.com  
