@@ -1,4 +1,4 @@
-# Hi, I'm DongMin Kim. I teach machines to read and listen to music.
+# Hi, I teach machines to read and listen to music.
 
 My research focuses on developing frameworks that enable machines to translate between different modalities of music: from score images to symbolic notation to performance audio.  
 I built the YouTube Score Video dataset with 1,300+ hours of paired score-audio data and achieved the first successful direct score-image-to-audio generation.  
